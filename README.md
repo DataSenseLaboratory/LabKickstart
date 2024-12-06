@@ -75,10 +75,9 @@ The DataSense Lab focuses on the development and application of advanced techniq
   - Signal Processing and Feature Extraction
   
 - **Tasks**:
-   - Signal Processing and Feature Extraction
-  - Preprocessing: Noise reduction and signal denoising techniques.
-  - Bandpass filtering to isolate frequencies of interest.
-  - Feature Extraction: Time-domain analysis (RMS, peak amplitude); Frequency-domain analysis (FFT, power spectral density); Time-frequency techniques (wavelets, spectrograms).
+   - Preprocessing: Noise reduction and signal denoising techniques.
+   - Bandpass filtering to isolate frequencies of interest.
+   - Feature Extraction: Time-domain analysis (RMS, peak amplitude); Frequency-domain analysis (FFT, power spectral density); Time-frequency techniques (wavelets, spectrograms).
 
 - **Tools and Languages**:
  - Languages: Python, MATLAB
