@@ -168,5 +168,3 @@ Once comfortable with the foundational skills, proceed to:
    - Apply LIME to datasets relevant to your work, contributing to outcomes such as detection, classification, and attribute boundary extraction.  
 
 ---
-
-### Let’s innovate together!  
