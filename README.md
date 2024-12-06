@@ -1,6 +1,5 @@
 # LabKickstart
 A repository to onboard new members into the lab environment. It includes tutorials, datasets, research tools, guidelines, and starter scripts to facilitate learning and collaboration.
-# LabKickstart  
 
 **Welcome to the DataSense Lab!**  
 The DataSense Lab focuses on the development and application of advanced techniques in data processing, feature extraction, machine learning, computer vision, and smart sensors. Our vision is to foster research, knowledge dissemination, and collaboration in areas such as fault diagnosis, life prediction, pattern recognition, and the implementation of sensor-based solutions for IoT, Industry 4.0, and biometrics.  
