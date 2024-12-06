@@ -80,15 +80,16 @@ The DataSense Lab focuses on the development and application of advanced techniq
    - Feature Extraction: Time-domain analysis (RMS, peak amplitude); Frequency-domain analysis (FFT, power spectral density); Time-frequency techniques (wavelets, spectrograms).
 
 - **Tools and Languages**:
- - Languages: Python, MATLAB
- - Libraries and Software: Python: NumPy, SciPy, Matplotlib, PyWavelets, librosa
- - MATLAB - Signal Processing Toolbox, Wavelet Toolbox, Condition Monitoring Toolbox:
- -  [Signal Processing and Condition Monitoring](https://www.mathworks.com/discovery/condition-monitoring.html)
- -  [Predictive Maintenance](https://www.mathworks.com/products/predictive-maintenance.html)
- -  [Data Analysis](https://www.mathworks.com/products/matlab/data-analysis.html)
- -  [Signal Processing](https://www.mathworks.com/products/signal.html)
- -  [Artificial Intelligence](https://www.mathworks.com/solutions/artificial-intelligence.html)
- -  [Model Interpretability](https://www.mathworks.com/discovery/interpretability.html)
+   - Preprocessing: Noise reduction and signal denoising techniques.
+   - Languages: Python, MATLAB
+   - Libraries and Software: Python: NumPy, SciPy, Matplotlib, PyWavelets, librosa
+   - MATLAB - Signal Processing Toolbox, Wavelet Toolbox, Condition Monitoring Toolbox:
+   - [Signal Processing and Condition Monitoring](https://www.mathworks.com/discovery/condition-monitoring.html)
+   - [Predictive Maintenance](https://www.mathworks.com/products/predictive-maintenance.html)
+   - [Data Analysis](https://www.mathworks.com/products/matlab/data-analysis.html)
+   - [Signal Processing](https://www.mathworks.com/products/signal.html)
+   - [Artificial Intelligence](https://www.mathworks.com/solutions/artificial-intelligence.html)
+   - [Model Interpretability](https://www.mathworks.com/discovery/interpretability.html)
 
 ### Suggested Reading  
 
