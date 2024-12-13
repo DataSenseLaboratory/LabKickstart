@@ -90,7 +90,7 @@ The DataSense Lab focuses on the development and application of advanced techniq
    - [Signal Processing](https://www.mathworks.com/products/signal.html)
    - [Artificial Intelligence](https://www.mathworks.com/solutions/artificial-intelligence.html)
    - [Model Interpretability](https://www.mathworks.com/discovery/interpretability.html)
-   - [MATLAB Signal Processing Courses] (https://matlabacademy.mathworks.com/details/lpmlcspt?s_tid=ots_retirements)
+   - [MATLAB Signal Processing Courses](https://matlabacademy.mathworks.com/details/lpmlcspt?s_tid=ots_retirements)
 
 ### Suggested Reading  
 
