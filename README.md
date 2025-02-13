@@ -24,7 +24,7 @@ The DataSense Lab focuses on the development and application of advanced techniq
   - [Leonardo AI](https://leonardo.ai/)
   - [Gemini App](https://gemini.google.com/app)  
 ---
-## 📌 New Members – Campus & Academic Guide  
+## 📌 New Members – São Carlos Campus  
 - [Campus Administration (Prefeitura do Campus USP São Carlos)](https://www.puspsc.usp.br)  
 - [EESC USP Intranet (Iniciação Científica, Pós-Graduação e Pesquisa, bolsas, PAE, disciplinas...)](https://eesc.usp.br/intranet/)  
 - [Graduate Program in Electrical Engineering – Regulamento](https://eesc.usp.br/ppgs/sel/post.php?guid=regulamento&catid=apresentacao)  
