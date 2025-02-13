@@ -22,7 +22,8 @@ The DataSense Lab focuses on the development and application of advanced techniq
   - [Falcon Editing](https://falconediting.com/en/catalog/illustration/)
   - [Mind the Graph](https://mindthegraph.com/)
   - [Leonardo AI](https://leonardo.ai/)
-  - [Gemini App](https://gemini.google.com/app)  
+  - [Gemini App](https://gemini.google.com/app)
+  - [GitHub Education for Students](https://github.com/education/students)  [Apply to GitHub Education as a Student](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)  
 ---
 ## 📌 New Members – São Carlos Campus  
 - [Campus Administration (Prefeitura do Campus USP São Carlos)](https://www.puspsc.usp.br)  
