@@ -26,9 +26,10 @@ The DataSense Lab focuses on the development and application of advanced techniq
   - [GitHub Education for Students](https://github.com/education/students)  -  [Apply to GitHub Education as a Student](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)  
 ---
 ## 📌 New Members – São Carlos Campus  
-- [Campus Administration (Prefeitura do Campus USP São Carlos)](https://www.puspsc.usp.br)  
+- [Prefeitura do Campus USP São Carlos](https://www.puspsc.usp.br)  
 - [EESC USP Intranet (Iniciação Científica, Pós-Graduação e Pesquisa, bolsas, PAE, disciplinas...)](https://eesc.usp.br/intranet/)  
-- [Graduate Program in Electrical Engineering – Regulamento](https://eesc.usp.br/ppgs/sel/post.php?guid=regulamento&catid=apresentacao)  
+- [Graduate Program in Electrical Engineering – Regulamento](https://eesc.usp.br/ppgs/sel/post.php?guid=regulamento&catid=apresentacao)
+- [Manual e comunidade acadêmica](https://jornal.usp.br/universidade/manual-do-calouro-apresenta-a-usp-aos-novos-ingressantes/)  
 
 ## 📚 Additional Resources  
 
