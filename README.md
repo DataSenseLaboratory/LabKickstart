@@ -29,8 +29,8 @@ The DataSense Lab focuses on the development and application of advanced techniq
 - [Prefeitura do Campus USP São Carlos](https://www.puspsc.usp.br)  
 - [EESC USP Intranet (Iniciação Científica, Pós-Graduação e Pesquisa, bolsas, PAE, disciplinas...)](https://eesc.usp.br/intranet/)  
 - [Graduate Program in Electrical Engineering – Regulamento](https://eesc.usp.br/ppgs/sel/post.php?guid=regulamento&catid=apresentacao)
-- [Manual e comunidade acadêmica](https://jornal.usp.br/universidade/manual-do-calouro-apresenta-a-usp-aos-novos-ingressantes/)  
-
+- [Manual e comunidade acadêmica](https://jornal.usp.br/universidade/manual-do-calouro-apresenta-a-usp-aos-novos-ingressantes/)
+- [For All English School (Escola para Exame de Proficiência exigido pela pós-graduação)](https://forallenglish.com.br) 
 ## 📚 Additional Resources  
 
 ### Bibliographic Research, Methodology, and Scientific Writing:  
