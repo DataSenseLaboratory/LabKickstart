@@ -23,7 +23,8 @@ The DataSense Lab focuses on the development and application of advanced techniq
   - [Mind the Graph](https://mindthegraph.com/)
   - [Leonardo AI](https://leonardo.ai/)
   - [Gemini App](https://gemini.google.com/app)
-  - [GitHub Education for Students](https://github.com/education/students)  -  [Apply to GitHub Education as a Student](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)  
+  - [GitHub Education for Students](https://github.com/education/students)  -  [Apply to GitHub Education as a Student](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)
+  - [Group Template for PowerPoint Presentations](https://docs.google.com/presentation/d/1qBaoH5bno2jtaVz_58wcsVHv0zAYaugS/edit?usp=sharing&ouid=102702180457643758349&rtpof=true&sd=true)
 ---
 ## 📌 New Members – São Carlos Campus  
 - [Prefeitura do Campus USP São Carlos](https://www.puspsc.usp.br)  
